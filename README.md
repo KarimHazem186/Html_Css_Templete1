@@ -1,5 +1,5 @@
 # Html_Css_Templete1
-This is a simple HTML &amp; CSS template featuring various sections for creating a well-structured website. 
+This is a simple HTML & CSS template featuring various sections for creating a well-structured website. The template includes the following sections:
 
 ## Sections Included:
 
